@@ -5,6 +5,8 @@
 - [Meu GitHub](hhttps://github.com/MarcosGrandesso).
 
 
+## Resumo
+Sou estagiário na Buser, curso ciencias da computação, tenho gosto por resolver problemas com tecnológia, sempre disposto a aprender algo novo...
 
 ## Coisas para fazer nessa github page
 * deploy no ghub page [done](Done)
@@ -18,5 +20,6 @@
 * SQL
 * Django
 
-## Resumo
-Sou estagiário na Buser, curso ciencias da computação, tenho gosto por resolver problemas com tecnológia, sempre disposto a aprender algo novo...
+## Experiências passadas
+
+* Todo

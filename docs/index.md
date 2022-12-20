@@ -19,4 +19,4 @@
 * Django
 
 ## Resumo
-Sou estagiário na Buser, curso ciencias da computação, tenho gosto por resolver problemas com tecnológia, sempre disposto a aprender algo novo.
+Sou estagiário na Buser, curso ciencias da computação, tenho gosto por resolver problemas com tecnológia, sempre disposto a aprender algo novo...

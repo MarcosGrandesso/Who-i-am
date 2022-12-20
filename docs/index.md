@@ -8,7 +8,7 @@
 
 ## Coisas para fazer nessa github page
 * deploy no ghub page [done](Done)
-* arrumar o estilo, ta mt feio
+* arrumar o estilo, ta mt feio [done](done)
 * escrever um curriculo 
 
 ## Competencias

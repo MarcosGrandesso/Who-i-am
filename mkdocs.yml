@@ -1,3 +1,9 @@
 site_name: Marcos Grandesso
 theme:
   name: material
+  palette:
+    scheme: slate
+    primary: teal
+    accent: cyan
+extra:
+  generator: false

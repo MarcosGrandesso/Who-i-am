@@ -1,6 +1,9 @@
 # Seja bem-vindo
 
-Para saber um pouco mais de mim, visite  [Meu linkedIn](https://www.linkedin.com/in/marcos-grandesso-05090b23a/).
+# Contato
+- [Meu LinkedIn](https://www.linkedin.com/in/marcos-grandesso-05090b23a/).
+- [Meu GitHub](hhttps://github.com/MarcosGrandesso).
+
 
 
 ## Coisas para fazer nessa github page
@@ -8,16 +11,12 @@ Para saber um pouco mais de mim, visite  [Meu linkedIn](https://www.linkedin.com
 * arrumar o estilo, ta mt feio
 * escrever um curriculo 
 
-## Commands
+## Competencias
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* JavaScript
+* Vue
+* SQL
+* Django
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Resumo
+Sou estagiário na Buser, curso ciencias da computação, tenho gosto por resolver problemas com tecnológia, sempre disposto a aprender algo novo.

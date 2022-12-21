@@ -6,7 +6,7 @@
 
 
 ## Resumo
-Sou estagiário na Buser, curso ciencias da computação, tenho gosto por resolver problemas com tecnológia, sempre disposto a aprender algo novo...
+Desenvolvedor em inicio de carreira, fascinado por resolução de problemas utilizando tecnológia, sou estagiário em tech na Buser, atualmente cursando ciência da computação e faço parte da primeira turma de alunos do programa BuserTech.
 
 ## Coisas para fazer nessa github page
 * deploy no ghub page [done](Done)
@@ -20,6 +20,4 @@ Sou estagiário na Buser, curso ciencias da computação, tenho gosto por resolv
 * SQL
 * Django
 
-## Experiências passadas
-
-* Todo
+## 

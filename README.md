@@ -1,6 +1,6 @@
 # Who-i-am, aprendendo markdown
 
-Acesse o link da página (Marco Grandesso)[https://marcosgrandesso.github.io/Who-i-am/]
+Acesse o link da página [Marco Grandesso](https://marcosgrandesso.github.io/Who-i-am/)
 
 ## Como fazer o setup do projeto
 
